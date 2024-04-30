@@ -9,7 +9,9 @@
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
-    <description>openEAP suite3</description>
+    <description>openEAP suite3(2c)
+        2C为主的企业应用系统，如电商(eap-mall)等
+    </description>
     <url>https://github.com/eaopen/openea-eap</url>
 
     <properties>
