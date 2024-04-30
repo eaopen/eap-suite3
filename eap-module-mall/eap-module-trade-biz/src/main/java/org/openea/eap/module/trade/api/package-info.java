@@ -1,0 +1,1 @@
+package org.openea.eap.module.trade.api;
